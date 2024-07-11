@@ -1,0 +1,50 @@
+#home{ 
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    height: 80vh;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: default;
+ }
+ .hello{
+     color: turquoise;
+     font-size: small;
+ }
+ .myname{
+     color: #ccd6f6;
+     font-size: 40px; 
+ }
+ section h3{
+     color: #8892b0;
+     font-size: 20px; 
+ }
+ .careerdes{
+     color: #8892b0;
+     font-size: 18px; 
+ }
+ .hireme{
+     width: 180px;
+     height: 50px;
+     background-color: transparent;
+     color: #ccd6f6;
+     border: 2px solid turquoise;
+     font-weight: bold;
+     cursor: pointer;
+     font-size: 18px;
+     display: inline-block;
+     border-radius: 30px; 
+     transition: ease 0.8s;
+ }
+ .hireme:hover{
+     box-shadow: 1px 1px 10px turquoise;
+ }
+ section div i{
+     color: white;
+     display: inline;
+     margin-top: 80px;
+     margin-left: 50px;
+     transition: 0.5s;
+ }
+ section div i:hover{
+     color: turquoise;
+ }
